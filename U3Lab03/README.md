@@ -1,0 +1,1 @@
+this is lwk a really lazy way to do this lab. maybe i'll improve it later :)
